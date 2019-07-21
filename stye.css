@@ -1,0 +1,38 @@
+
+#container {
+    background: rgb(213, 219, 221);
+    border: 10px solid gray;
+    width: 263px;
+    height: 365px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#display {
+    width: 10px;
+    height: 53px;
+}
+
+button {
+    color: black;
+    width: 60px;
+    height:60px;
+    margin-left: 2px;
+    margin-top: 2px;
+    font-size: 23px;
+}
+
+#equal {
+    width: 258px;
+}
+
+#calcDisplay {
+    width: 254px;
+    height: 45px;
+    margin-top: 2px;
+    margin-left: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+    text-align: right;
+    background: white;
+}
